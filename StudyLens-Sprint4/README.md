@@ -109,20 +109,9 @@ Grid e Flex organizam as seções. A equipe usa `md:grid-cols-2 lg:grid-cols-4`,
 
 ## Git e Vercel
 
-Repositório desta versão: publicação pendente.
-Deploy desta versão: publicação pendente.
+Repositório: https://github.com/Rayka-Santos/StudyLens-Sprint4.git
+Deploy: https://studylens-sprint4.vercel.app/
 
-Para publicar, envie esta pasta para o repositório da equipe e importe o repositório na Vercel:
-
-- Preset: Vite.
-- Instalação: `npm install`.
-- Build: `npm run build`.
-- Saída: `dist`.
-- Node.js: versão compatível com 22.12 ou superior.
-
-Se importar o pacote organizado inteiro, selecione `02-web-development` como Root Directory na Vercel. Se enviar apenas a aplicação final, use a raiz do repositório.
-
-O arquivo `vercel.json` encaminha as rotas para o HTML da aplicação. Não há chaves ou variáveis de ambiente a configurar. Depois do deploy, teste a URL e substitua as duas pendências acima pelos links definitivos.
 
 ## Verificação
 
